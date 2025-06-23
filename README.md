@@ -71,8 +71,7 @@ Welcome to my Flutter Development Internship with **ELiteTech Intern**. Over thi
 ---
 
 ## 🎓 Certificate
-A **completion certificate** will be issued after successfully finishing all 4 projects and weekly reports.
-
+A **completion certificate** will be issued after successfully finishing all 6 weeks.
 ---
 
 ## 🔧 Tools & Technologies
