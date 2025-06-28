@@ -59,6 +59,15 @@ Welcome to my Flutter Development Internship with **ELiteTech Intern**. Over thi
 
 ---
 
+### ✅ Week 6: **BMI Calculator App + Wrap Up**
+- Designed a simple UI for entering height & weight
+- Implemented BMI calculation logic:
+  - Showed BMI result with category (Underweight, Normal, etc.)
+- Final Review of All Projects
+- Prepared for Certificate & Submission
+- **Mini Project Completed:** 🧍‍♂️ BMI Calculator
+
+---
 
 ## 🏁 Completed Mini Projects
 
@@ -67,7 +76,7 @@ Welcome to my Flutter Development Internship with **ELiteTech Intern**. Over thi
 | 1-2  | 🎮 Tic Tac Toe Game      | Interactive 2-player grid game using Flutter widgets  |
 | 3-4  | ✅ To-Do App             | Task manager app with local storage (Sqflite)         |
 | 5    | 💰 MMAS: Money Tracker   | Expense tracker with budgeting and reports           |
-
+| 6    | 🧍‍♂️ BMI Calculator       | Calculates BMI and displays category                 |
 ---
 
 ## 🎓 Certificate
