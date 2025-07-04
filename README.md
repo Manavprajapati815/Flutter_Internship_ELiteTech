@@ -10,8 +10,7 @@ Welcome to my Flutter Development Internship with **ELiteTech Intern**. Over thi
 
 - Strengthen knowledge of Flutter & Dart
 - Understand state management and UI design
-- Learn how to integrate local and remote databases
-- Build and deploy real-world mobile app projects
+- Learn how to integrate local databases
 
 ---
 
